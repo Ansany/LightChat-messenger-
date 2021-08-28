@@ -10,5 +10,6 @@ What I learned when I was creating this app:
  - Table Views
  - creating custom UI with .xib files
 
-<img width="295" alt="LightChatStoryboardScreenShoot" src="https://user-images.githubusercontent.com/68674699/131226138-61857542-3862-4092-8479-cd21b82ddd17.png">
+![LightChatStoryboardScreen](https://user-images.githubusercontent.com/68674699/131227292-83c6b8ee-d14a-4cbb-a4fd-7a6d0750fa24.png)
+
 
